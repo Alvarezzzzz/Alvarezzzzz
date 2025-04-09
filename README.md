@@ -9,9 +9,8 @@
 </a>
 </p>
 	
-<div style="margin: 0; font-size: 1.5rem; font-weight: bold;">
-  About me
-</div>
+## **About me**
+
 
 
 <p>
