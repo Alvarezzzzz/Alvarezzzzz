@@ -30,19 +30,19 @@
   </a>
 </p>
 
-## 📊 **Estadísticas de GitHub**
-
+##**GitHub Statistics**
+<br>
 <p align="center">
   <div align="center">
     <!-- Estadísticas del usuario -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Sperrotta10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Alvarezzzzz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=algolia&locale=en&hide_border=false" height="150" alt="stats graph" />
     <!-- Idiomas más utilizados -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sperrotta10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvarezzzzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="150" alt="languages graph" />
   </div>
 
 
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Sperrotta10&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=Alvarezzzzz&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   </div>
 
 </p>
