@@ -13,7 +13,7 @@
 
 
 <p>
-	I am a computer engineering student, passionate about this world. I love learning every day and unraveling every facet to improve myself and expand my knowledge. Studying computer engineering, I also discovered another of my passions: mathematics, and that is why I also studied a bachelor's degree in pure mathematics. That is why I currently specialize in web development, but I continue learning about other areas since in the future I would like to work on interdisciplinary projects, such as combining these two careers and implementing them in areas such as data science.
+	I am a computer engineering student, passionate about this world. I love learning every day and unraveling every facet to improve myself and expand my knowledge. While studying computer engineering, I also discovered another of my passions: mathematics, which is why I am also studying a degree in pure mathematics. I am currently specializing in web development but continue to learn about other areas, as in the future I would like to work on interdisciplinary projects, combining these two majors and implementing them in areas such as data science.
 </p>
 
 
